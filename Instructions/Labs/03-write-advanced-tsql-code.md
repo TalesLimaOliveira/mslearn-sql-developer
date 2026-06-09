@@ -2,14 +2,12 @@
 lab:
     title: 'Lab 3 – Write advanced T-SQL queries'
     module: 'Write advanced T-SQL queries'
-    description: This exercise will help you practice using JSON functions, CTEs, and window functions to build and query data from the AdventureWorksLT database.
-    level: 300
-    duration: 30 minutes
-    islab: true
-    primarytopics:
-        - T-SQL
-        - JSON
-        - SQL Server
+    description: 'This exercise will help you practice using JSON functions, CTEs, and window functions to build and query data from the AdventureWorksLT database.'
+    duration: 30 # duration in minutes
+    level: 300 # 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design
+    islab: true # if this is not a lab that should be listed in the catalog, set to false
+    status: 'released' # in-development or released
+    targetDate: '2099-01-01' # Set to the future date when you expect an in-development lab to be released
 ---
 
 # Write advanced T-SQL queries
