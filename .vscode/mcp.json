@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sql-server": {
+      "type": "http",
+      "url": "https://your-mcp-endpoint/mcp"
+    }
+  }
+}
